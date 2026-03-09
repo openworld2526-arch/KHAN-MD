@@ -15,6 +15,5 @@ EXPOSE 9090
 # Start the app
 CMD ["npm", "start"]
 
-# RUN git clone https://github.com/openworld2526-arch/KHAN-MD . && \
-    npm install
+
 
