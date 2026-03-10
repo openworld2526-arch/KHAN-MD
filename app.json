@@ -1,13 +1,13 @@
 {
   "name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
+  "description": "Javascript WhatsApp bot made by OUSSAMA ZORO",
   "logo": "https://files.catbox.moe/neni8p.jpg",
   "keywords": ["KHAN-MD"],
   "success_url": "/",
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here. (Required)",
+      "description": "212679226276",
       "required": true,
       "value": ""
     },
@@ -27,14 +27,14 @@
       "value": "public"
     },
     "OWNER_NUMBER": {
-      "description": "Owner WhatsApp number without + (Default: 923427582273)",
+      "description": "Owner WhatsApp number without + (Default: 212679226276)",
       "required": false,
-      "value": "923427582273"
+      "value": "212679226276"
     },
     "OWNER_NAME": {
-      "description": "Owner name (Default: Jᴀᴡᴀᴅ TᴇᴄʜX)",
+      "description": "Owner name (Default: OUSSAMA ZORO)",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "OUSSAMAZORO"
     },
     "AUTO_REPLY": {
       "description": "Auto reply to messages: true/false (Default: false)",
@@ -164,7 +164,7 @@
     "DESCRIPTION": {
       "description": "Bot description",
       "required": false,
-      "value": "*© Powered by Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*© Powered by OUSSAMA ZORO*"
     }
   },
   "buildpacks": [
